@@ -61,7 +61,7 @@ public class CarrelloTest {
 		int expected = 0;
 		carrello.removeOneProduct();
 		assertEquals(expected, carrello.getAmount());
-		
+		System.out.println("ciao");
 		
 	}
 
