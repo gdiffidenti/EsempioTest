@@ -62,8 +62,14 @@ public class CarrelloTest {
 		carrello.removeOneProduct();
 		assertEquals(expected, carrello.getAmount());
 		System.out.println("ciao");
+
 		System.out.println("terminato");
 		System.out.println("MODIFICA LOCALE");
+		System.out.println("Modifica da Github");
+		
+
+		
+
 		
 	}
 
