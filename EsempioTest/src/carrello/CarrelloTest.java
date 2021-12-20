@@ -63,6 +63,7 @@ public class CarrelloTest {
 		assertEquals(expected, carrello.getAmount());
 		System.out.println("ciao");
 		System.out.println("terminato");
+		System.out.println("MODIFICA LOCALE");
 		
 	}
 
