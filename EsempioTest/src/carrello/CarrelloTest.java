@@ -62,6 +62,7 @@ public class CarrelloTest {
 		carrello.removeOneProduct();
 		assertEquals(expected, carrello.getAmount());
 		System.out.println("ciao");
+		System.out.println("terminato");
 		
 	}
 
