@@ -21,7 +21,8 @@ private int amount;
 		if(amount > 0)
 		amount--;
 	}
-
+        System.out.println("Ciao");
+	
 }
 
 
